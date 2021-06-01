@@ -1,4 +1,4 @@
-# Predicting-Bitcoin-Prices
+# Predicting Bitcoin Prices with AI
 
 This Project used the Peltarion platform in combination with Zapier to predict Bitcoin prices in real time. 
 It got an accuracy of roughly 55%.
